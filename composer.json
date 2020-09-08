@@ -1,0 +1,17 @@
+{
+    "name": "arikaim/pdf-js-library",
+    "description": "PDF.js library for Arikaim CMS",
+    "keywords": ["UI", "PDF.js UI library for Arikaim CMS","Arikaim","PDF"],
+    "type": "arikaim-library",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Konstantin Atanasov",
+        "email": "info@arikaim.com",
+        "homepage": "http://arikaim.com"
+    }],
+    "require": {        
+    },
+    "extra": {
+        "path": "pdf-js"
+    }
+}

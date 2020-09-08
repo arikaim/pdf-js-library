@@ -1,0 +1,12 @@
+{
+    "title": "Pdf.js",
+    "package-type": "library",
+    "name": "pdf-js",
+    "version": "2.5.2",
+    "description": "PDF js library",
+    "help": "https://github.com/mozilla/pdf.js",
+    "repository": "https://github.com/arikaim/pdf-js-library.git",
+    "files": [
+        "pdf.js"
+    ]
+}
