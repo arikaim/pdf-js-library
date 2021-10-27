@@ -120,7 +120,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 0 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -142,7 +142,7 @@ const pdfjsBuild = '0974d6052';
 /* 1 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -685,7 +685,7 @@ if (typeof window === "undefined" && !_is_node.isNodeJS && typeof self !== "unde
 /* 2 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -1513,7 +1513,7 @@ exports.createObjectURL = createObjectURL;
 /* 3 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 var _is_node = __w_pdfjs_require__(4);
@@ -1524,7 +1524,7 @@ var _is_node = __w_pdfjs_require__(4);
 /* 4 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -1538,7 +1538,7 @@ exports.isNodeJS = isNodeJS;
 /* 5 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -1856,7 +1856,7 @@ function clearPrimitiveCaches() {
 /* 6 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -2063,7 +2063,7 @@ exports.NetworkPdfManager = NetworkPdfManager;
 /* 7 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -2676,7 +2676,7 @@ exports.ChunkedStreamManager = ChunkedStreamManager;
 /* 8 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -2813,7 +2813,7 @@ function isWhiteSpace(ch) {
 /* 9 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -3562,7 +3562,7 @@ exports.PDFDocument = PDFDocument;
 /* 10 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -5820,7 +5820,7 @@ exports.ObjectLoader = ObjectLoader;
 /* 11 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -7127,7 +7127,7 @@ exports.Linearization = Linearization;
 /* 12 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -8429,7 +8429,7 @@ exports.NullStream = NullStream;
 /* 13 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -8496,7 +8496,7 @@ exports.CCITTFaxStream = CCITTFaxStream;
 /* 14 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -9201,7 +9201,7 @@ exports.CCITTFaxDecoder = CCITTFaxDecoder;
 /* 15 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -9285,7 +9285,7 @@ exports.Jbig2Stream = Jbig2Stream;
 /* 16 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -11493,7 +11493,7 @@ exports.Jbig2Image = Jbig2Image;
 /* 17 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -11847,7 +11847,7 @@ exports.ArithmeticDecoder = ArithmeticDecoder;
 /* 18 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -11954,7 +11954,7 @@ exports.JpegStream = JpegStream;
 /* 19 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -13195,7 +13195,7 @@ exports.JpegImage = JpegImage;
 /* 20 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -13282,7 +13282,7 @@ exports.JpxStream = JpxStream;
 /* 21 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -15618,7 +15618,7 @@ exports.JpxImage = JpxImage;
 /* 22 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -17208,7 +17208,7 @@ exports.CipherTransformFactory = CipherTransformFactory;
 /* 23 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -18254,7 +18254,7 @@ const LabCS = function LabCSClosure() {
 /* 24 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -18409,7 +18409,7 @@ exports.GlobalImageCache = GlobalImageCache;
 /* 25 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -19492,7 +19492,7 @@ class FileAttachmentAnnotation extends MarkupAnnotation {
 /* 26 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -20154,7 +20154,7 @@ exports.OperatorList = OperatorList;
 /* 27 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -23753,7 +23753,7 @@ var EvaluatorPreprocessor = function EvaluatorPreprocessorClosure() {
 /* 28 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -24663,7 +24663,7 @@ exports.CMapFactory = CMapFactory;
 /* 29 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -27903,7 +27903,7 @@ var CFFFont = function CFFFontClosure() {
 /* 30 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -29706,7 +29706,7 @@ exports.CFFCompiler = CFFCompiler;
 /* 31 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -29724,7 +29724,7 @@ exports.ExpertSubsetCharset = ExpertSubsetCharset;
 /* 32 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -34315,7 +34315,7 @@ exports.getDingbatsGlyphsUnicode = getDingbatsGlyphsUnicode;
 /* 34 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -37036,7 +37036,7 @@ exports.getUnicodeForGlyph = getUnicodeForGlyph;
 /* 36 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -38002,7 +38002,7 @@ exports.FontRendererFactory = FontRendererFactory;
 /* 37 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -38713,7 +38713,7 @@ exports.Type1Parser = Type1Parser;
 /* 38 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -39652,7 +39652,7 @@ function getTilingPatternIR(operatorList, dict, args) {
 /* 39 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -39964,7 +39964,7 @@ function bidi(str, startLevel, vertical) {
 /* 40 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -42918,7 +42918,7 @@ exports.getMetrics = getMetrics;
 /* 41 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -44268,7 +44268,7 @@ exports.PostScriptCompiler = PostScriptCompiler;
 /* 42 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -44522,7 +44522,7 @@ exports.PostScriptLexer = PostScriptLexer;
 /* 43 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -44648,7 +44648,7 @@ exports.MurmurHash3_64 = MurmurHash3_64;
 /* 44 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -45315,7 +45315,7 @@ exports.PDFImage = PDFImage;
 /* 45 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -45816,7 +45816,7 @@ exports.MessageHandler = MessageHandler;
 /* 46 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {

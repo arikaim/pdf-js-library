@@ -2,11 +2,21 @@
     "title": "Pdf.js",
     "package-type": "library",
     "name": "pdf-js",
-    "version": "2.5.2",
+    "version": "2.5.3",
     "description": "PDF js library",
     "help": "https://github.com/mozilla/pdf.js",
     "repository": "https://github.com/arikaim/pdf-js-library.git",
     "files": [
         "pdf.js"
-    ]
+    ],
+    "versions": {
+        "jspdf": [
+            "jspdf.umd.min.js"
+        ],
+        "jspdf-cdn": {
+            "files": [
+                "https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"   
+            ] 
+        }     
+    }
 }

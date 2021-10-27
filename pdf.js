@@ -120,7 +120,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 0 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -371,7 +371,7 @@ const pdfjsBuild = '0974d6052';
 /* 1 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -871,7 +871,7 @@ exports.PDFDateString = PDFDateString;
 /* 2 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -1699,7 +1699,7 @@ exports.createObjectURL = createObjectURL;
 /* 3 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 var _is_node = __w_pdfjs_require__(4);
@@ -1710,7 +1710,7 @@ var _is_node = __w_pdfjs_require__(4);
 /* 4 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -1724,7 +1724,7 @@ exports.isNodeJS = isNodeJS;
 /* 5 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -3807,7 +3807,7 @@ exports.build = build;
 /* 6 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -4194,7 +4194,7 @@ exports.FontFaceObject = FontFaceObject;
 /* 7 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -4219,7 +4219,7 @@ exports.apiCompatibilityParams = apiCompatibilityParams;
 /* 8 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -6265,7 +6265,7 @@ exports.CanvasGraphics = CanvasGraphics;
 /* 9 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -6746,7 +6746,7 @@ exports.TilingPattern = TilingPattern;
 /* 10 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -6762,7 +6762,7 @@ GlobalWorkerOptions.workerSrc = GlobalWorkerOptions.workerSrc === undefined ? ""
 /* 11 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -7263,7 +7263,7 @@ exports.MessageHandler = MessageHandler;
 /* 12 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -7391,7 +7391,7 @@ exports.Metadata = Metadata;
 /* 13 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -7834,7 +7834,7 @@ exports.SimpleXMLParser = SimpleXMLParser;
 /* 14 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -8189,7 +8189,7 @@ class PDFDataTransportStreamRangeReader {
 /* 15 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -8636,7 +8636,7 @@ var WebGLUtils = function WebGLUtilsClosure() {
 /* 16 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -9672,7 +9672,7 @@ exports.AnnotationLayer = AnnotationLayer;
 /* 17 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -10367,7 +10367,7 @@ exports.renderTextLayer = renderTextLayer;
 /* 18 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -11893,7 +11893,7 @@ exports.SVGGraphics = SVGGraphics;
 /* 19 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -12362,7 +12362,7 @@ class PDFNodeStreamFsRangeReader extends BaseRangeReader {
 /* 20 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -12454,7 +12454,7 @@ function validateResponseStatus(status) {
 /* 21 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -12642,7 +12642,7 @@ function getFilenameFromContentDispositionHeader(contentDisposition) {
 /* 22 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
@@ -13199,7 +13199,7 @@ class PDFNetworkStreamRangeRequestReader {
 /* 23 */
 /***/ (function(module, exports, __w_pdfjs_require__) {
 
-"use strict";
+'use strict';
 
 
 Object.defineProperty(exports, "__esModule", {
