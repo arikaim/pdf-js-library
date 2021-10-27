@@ -3,8 +3,8 @@
 
 Includes 
 
-[PDF.js](https://github.com/mozilla/pdf.js) library 
-[jsPDF](https://github.com/parallax/jsPDF) library
+* [PDF.js](https://github.com/mozilla/pdf.js) library 
+* [jsPDF](https://github.com/parallax/jsPDF) library
 
 #### Requirements 
   * [Arikaim CMS](https://github.com/arikaim/arikaim)
